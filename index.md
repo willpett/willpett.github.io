@@ -1,10 +1,10 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: Walker Pett
 ---
 
 My name is Walker, but most people call me Will for some reason.
+Here is my [CV](assets/cv.pdf).
 
 My research interests include animal phylogeny, 
 models of genome evolution, and Bayesian phylogenetics methods using MCMC.
