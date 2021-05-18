@@ -14,4 +14,4 @@ In between, I spent some time as a postdoc working on deep metazoan relationship
 [Nicolas Lartillot](http://megasun.bch.umontreal.ca/People/lartillot/www/index.htm) at 
 the Laboratoire de Biom&eacute;trie et Biologie &Eacute;volutive in Lyon, France.
 
-I am also a [musician](https://www.instagram.com/bittercanyon/) and a [piano tuner](https://www.instagram.com/walkertuner/).
+I am also a [musician](https://www.instagram.com/bittercanyon/) an [artist](https://www.instagram.com/willwilliewalker/) and a [piano tuner](https://www.instagram.com/walkertuner/).
